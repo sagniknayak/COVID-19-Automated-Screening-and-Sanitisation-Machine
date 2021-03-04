@@ -18,8 +18,8 @@ The temperature and further instructions will be displayed on the LCD.
 6.	The entry counting and exit counting will be done independently by sensors Entry Sensor and Exit Sensor respectively to ensure more efficient attendance logging.
 
 ## Links:
-[TinkerCAD Project Link](https://www.tinkercad.com/things/fSV1rkQ0w65)
-[Simulation Video Link](https://drive.google.com/file/d/1ZoDRI-b_58xn7UNqeSQ-Vc3ylz5riV_m/view?usp=sharing)
+- [TinkerCAD Project Link](https://www.tinkercad.com/things/fSV1rkQ0w65)
+- [Simulation Video Link](https://drive.google.com/file/d/1ZoDRI-b_58xn7UNqeSQ-Vc3ylz5riV_m/view?usp=sharing)
 
 ## Innovative points about the project:
 -	The sensor to count the people exiting is independent to the thermal screening and sanitisation process and can thus be placed on a different exit door, so it can count people exiting even if a person if going through the screening and sanitisation process at the entry point.
