@@ -17,4 +17,9 @@ The temperature and further instructions will be displayed on the LCD.
 5.	All relevant information will be displayed on the Serial Monitor and LCD.
 6.	The entry counting and exit counting will be done independently by sensors Entry Sensor and Exit Sensor respectively to ensure more efficient attendance logging.
 
-
+### Innovative points about the project:
+-	The sensor to count the people exiting is independent to the thermal screening and sanitisation process and can thus be placed on a different exit door, so it can count people exiting even if a person if going through the screening and sanitisation process at the entry point.
+-	Going through the sanitisation stage is compulsory if a person wants to enter through the entry point, which should be the only path to enter.
+-	A person must stand at least 200cm away (2m away, which is the norm) from the person currently going through the screening or sanitisation process, or else he won’t be checked and thus not given entry.
+-	The project has a timeout feature. If the person leaves, after standing and measuring their temperature, or does not sanitise within 10 more second, then he/she must go through the entire process again or the next person will be checked after at least 10 seconds after the previous person’s temperature was measured. So, if a person leaves in the middle of the entire screening and sanitisation process, the system will go back to normal activity after sometime time automatically, hence, timeout.
+-	LCD displays instructions clearly, so a person should understand what to do if he/she feels confused.
