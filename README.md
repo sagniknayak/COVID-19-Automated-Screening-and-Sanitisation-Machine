@@ -29,7 +29,7 @@ The temperature and further instructions will be displayed on the LCD.
 -	LCD displays instructions clearly, so a person should understand what to do if the person feels confused.
 
 ## Scopes for improvement:
-- [x]	There is always a scope of improvement for sensors and thus, making a more efficient code could be possible. However, as the code is segmented properly, due to increased readability, improving the code will not be an issue.
+- [ ]	There is always a scope of improvement for sensors and thus, making a more efficient code could be possible. However, as the code is segmented properly, due to increased readability, improving the code will not be an issue.
 - [ ]	A mechanism attached to the door can be integrated that will order the door to open and close accordingly and will also help counting attendance more effectively.
 -	[ ] The temperature sensor available on TinkerCAD [TMP36] only measures its ambient temperature and thus body temperature of a person cannot be measured properly. So, a different sensor should be used which can measure temperature over a distance.
 -	[ ] A camera and a pre-trained Machine Learning model can be implemented to detect if the person is wearing a mask or not and thus act accordingly. However, handling a camera and sending/receiving data to/from a Machine Learning model requires more computational power and connection to the internet and thus Arduino Uno R3 can’t be used. For such purposes, development boards like Raspberry Pi or Orange Pi, integrated with Pi Camera might be used, that would increase the cost of device but will provide significant performance boost and many more features could be integrated.
